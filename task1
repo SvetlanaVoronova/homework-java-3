@@ -1,6 +1,6 @@
 import java.util.*;
 
-class SortWave
+class waveSorting
 {
 	void replace(int arr[], int a, int b)
 	{
